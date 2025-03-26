@@ -17,3 +17,7 @@ To view the website, right click on the "index.html" file and click "Open in bro
 For additional guidance on hosting the website and customizing the contents, see the [Website Hosting Exercise](https://github.com/prof-rossetti/internet-technologies/blob/main/exercises/website-hosting/exercise.md).
 
 ## [License](/LICENSE)
+
+<h1>Juan Valderrama</h1>
+<p>Welcome to my personal website!</p>
+
